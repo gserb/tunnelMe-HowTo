@@ -20,4 +20,4 @@ How to
  
  lt --port 8080
       
- How you will have a public url !!
+How you will have a public url !!
